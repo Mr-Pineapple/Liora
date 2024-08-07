@@ -18,6 +18,10 @@
 		{
 			"Name": "WaterExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "DiscordRpc",
+			"Enabled": false
 		}
 	]
 }
