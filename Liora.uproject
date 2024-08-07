@@ -22,6 +22,10 @@
 		{
 			"Name": "DiscordRpc",
 			"Enabled": false
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
